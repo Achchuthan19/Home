@@ -1,0 +1,125 @@
+body
+	{
+	background-image: linear-gradient(red,white);
+}
+
+table
+	{
+	width:100%;
+	}
+tr 
+	{
+	margin: 1px;
+	border: 1px;
+	}
+video {
+  width: 30%;
+  height: auto;
+}
+th
+	{
+	font-family: Arial, Helvitica, sans-serif;
+	font-size:40px;
+	text-align: center;
+	background-color: red;
+	background-image: linear-gradient(to bottom right, red, yellow);
+	padding: 10px;
+	margin: 0px;
+	border: 0px;
+	}
+
+td
+	{
+	margin: 0px;
+	vertical-align: top;
+	background-color: lightred;
+	font-size: 29px;
+	}
+img
+	{
+	border: 1px solid red;
+	float: left;
+	margin: 20px;
+	}
+p
+	{
+	text-align: center;
+	font-size: 30px;
+	}	
+#home{
+	background-image: linear-gradient(white,red);
+}
+#hobbies_and_interests{
+	background-image: linear-gradient(white,orange);
+}
+#sports_and_games{
+	background-image: linear-gradient(white,lightblue);
+}
+#memories{
+	background-image: linear-gradient(white,rgb(202,91,238));
+}
+.specialborder	{
+	border-top-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style: hidden;
+	border-left-style: solid;
+	border-color: blue;
+	background-color: cyan;
+}
+.table-menu
+	{
+	background-color: cyan;
+	vertical-align: top;
+	background-image: linear-gradient(white,red);
+	}
+.home-menu
+	{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	border: 2px solid red;
+	padding: 7px;
+	background-image: linear-gradient(red,orange);
+	}
+.hobbies_and_interests-menu
+	{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	border: 2px solid red;
+	padding: 7px;
+	background-image: linear-gradient(orange,yellow);
+	}
+	
+.sports_and_games-menu
+	{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	border: 2px solid red;
+	padding: 7px;
+	background-image: linear-gradient(yellow,lightblue);
+	}
+.memories-menu
+	{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	border: 2px solid red;
+	padding: 7px;
+	background-image: linear-gradient(lightblue,rgb(202,91,238));
+	}
+.cell-row
+	{
+	margin-bottom: 10px;
+	background-image: linear-gradient(red,orange, yellow);
+	}
+
+.cell-content
+	{
+	background-color: white;
+	background-image: linear-gradient(red,white);
+	height: 800px;
+	vertical-align: top;
+	padding: 10px;
+	}
