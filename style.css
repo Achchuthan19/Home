@@ -32,7 +32,6 @@ td
 	{
 	margin: 0px;
 	vertical-align: top;
-	background-color: lightred;
 	font-size: 29px;
 	}
 img
@@ -58,6 +57,9 @@ p
 #memories{
 	background-image: linear-gradient(white,rgb(202,91,238));
 }
+.valid{
+	float: right;
+	}
 .specialborder	{
 	border-top-style: hidden;
 	border-right-style: hidden;
