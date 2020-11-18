@@ -57,6 +57,9 @@ p
 #memories{
 	background-image: linear-gradient(white,rgb(202,91,238));
 }
+#reference{
+	background-image: linear-gradient(white,rgb(217,17,126));
+}
 .valid{
 	float: right;
 	}
@@ -111,6 +114,15 @@ p
 	padding: 7px;
 	background-image: linear-gradient(lightblue,rgb(202,91,238));
 	}
+.reference-menu
+{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	border: 2px solid red;
+	padding: 7px;
+	background-image: linear-gradient(rgb(202,91,238), rgb(217,17,126));
+}
 .cell-row
 	{
 	margin-bottom: 10px;
